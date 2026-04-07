@@ -29,6 +29,16 @@
 
 ---
 
+## 💼 Experience
+
+### 🔬 R&D Intern — Samsung PRISM *(Sep 2025 – Present)*
+*AI-driven Test Automation Research*
+- Building an AI-driven **Zephyr Test Case Automation** system.
+- Generating automated test cases from Jira stories using AI.
+- Exploring Zephyr APIs, workflow integration, CI/CD, Nightwatch.js, coverage, and traceability.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎓 GradeSmart — AI Answer Sheet Evaluator
@@ -56,15 +66,6 @@
 
 ---
 
-## 💼 Experience
-
-### 🔬 R&D Intern — Samsung PRISM *(Sep 2025 – Present)*
-*AI-driven Test Automation Research*
-- Building an AI-driven **Zephyr Test Case Automation** system.
-- Generating automated test cases from Jira stories using AI.
-- Exploring Zephyr APIs, workflow integration, CI/CD, Nightwatch.js, coverage, and traceability.
-
----
 
 ## 🏆 Achievements
 
