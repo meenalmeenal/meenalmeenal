@@ -1,4 +1,4 @@
-# uwu
+# UwU
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+👋+I'm+Meenal+Patle;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+🚀" />
 </h1>
