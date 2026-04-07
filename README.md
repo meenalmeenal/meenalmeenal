@@ -1,6 +1,6 @@
 # UwU
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hi+👋+I'm+Meenal+Patle;AI+%26+Machine+Learning+Engineer;Building+Intelligent+Systems+🚀" />
+<img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&pause=100&color=FF07AD&background=FF152500&width=435&lines=Hello+%3A)+I'm+Meenal;AI+and+Automation+Engineer;%E2%99%A1" alt="Typing SVG" /></a>" />
 </h1>
 
 <div align="center">
