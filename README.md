@@ -12,7 +12,7 @@
 </div>
 ---
  
-## Tech Stack
+ Tech Stack
  
 | Category | Tools & Languages |
 | :--- | :--- |
