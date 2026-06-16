@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&pause=50&color=FF07AD&background=FF152500&vCenter=true&width=435&lines=Hello+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+I'm+Meenal+!;AI+and+Automation+Engineer" alt="Typing SVG" /></a>
 </h1>
 <div align="center">
-### AI Enthusiast | B.Tech Data Science & AI @ IIIT Naya Raipur | ML Developer | Hackathon Winner
+ AI Enthusiast | B.Tech Data Science & AI @ IIIT Naya Raipur | ML Developer | Hackathon Winner
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meenal-patle-020a3b297/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meenalpatle4@gmail.com)
