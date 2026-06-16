@@ -56,6 +56,24 @@
 - Queue-based tile spawning system with Retrofit-based REST integration between Android client and Python backend.
 ---
  
+## Other Projects
+ 
+### Skin Concern Detection Model using LLM & CV
+*Deep learning system for facial skin analysis*
+- Detects acne, PIH, and other skin conditions from facial images using OpenCV preprocessing & augmentation.
+- LLM + RAG-based skincare recommendation engine suggesting ingredients and products.
+- Minimal UI for image upload and automated analysis (in development).
+### Children's Story Text-to-Image Generator
+*Full GenAI pipeline for visual storytelling*
+- Text extraction from PDFs → scene-wise summaries via Ollama → structured JSON prompts → SDXL image generation.
+- PyPDF, ChromaDB + SentenceTransformers for contextual scene retrieval via RAG workflow.
+### Personality Prediction — Big Five OCEAN Model
+*Efficient ML model for personality trait prediction*
+- Reduced traditional 50-question test to 25 key questions via feature selection — same accuracy, half the effort.
+- FastAI, LazyRegressor, LazyClassifier for automated model selection across multiple ML algorithms.
+- Use cases: HR screening, psychology applications, personalized recommendations.
+---
+ 
 ## Achievements & Certifications
  
 - **NPTEL** — Introduction to Large Language Models *(Apr 2026)*
