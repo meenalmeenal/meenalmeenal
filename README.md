@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 
+
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Doto&weight=900&pause=50&color=FF07AD&background=FF152500&vCenter=true&width=435&lines=Hello+%CB%B6%E1%B5%94+%E1%B5%95+%E1%B5%94%CB%B6+I'm+Meenal+!;AI+and+Automation+Engineer" alt="Typing SVG" /></a>
 </h1>
